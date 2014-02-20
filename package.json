@@ -1,0 +1,13 @@
+{
+  "name": "jeffcarp-fungible",
+  "description": "A bunch of CSS building blocks for scaffolding",
+  "styles": [
+    "styles/background.css",
+    "styles/border.css",
+    "styles/float.css",
+    "styles/font-size.css",
+    "styles/misc.css",
+    "styles/spacing.css"
+  ],
+  "dependencies": {}
+}

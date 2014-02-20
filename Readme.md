@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [jeffcarp/fungible](http://github.com/jeffcarp/fungible). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/jeffcarp-fungible`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # Fungible
 
 A collection of base CSS classes that let you write styled HTML without writing any CSS. Fungible originated out of the need to scaffold HTML quickly without having to slow down and write CSS for each element. Its declarative usage is inspired by AngularJS. 
